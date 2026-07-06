@@ -17,6 +17,12 @@ Installation
 - Copy the entire code from the script and paste it into the editor.
 - Save the script.
 
+To convert PNG to PDF you need to install Pillow and run the python script in the target directory :
+
+```
+pip install Pillow
+```
+
 🧾Usage
 - Navigate to any web page containing a Google Slides presentation.
 - A control panel with two buttons will appear in the top-right corner of the screen.
