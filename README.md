@@ -5,6 +5,7 @@ This Tampermonkey script allows you to manually capture slides from a Google Sli
 Works Everywhere: Captures slides from both the dedicated pubembed link and any website where a Google Slides presentation is embedded.
 
 - Manual Control: You decide which slides to capture and when to capture them.
+- Automatic Capture : Capture and scroll until the end automatically.
 - High-Resolution Output: Generates images at a fixed 1920x1080 resolution for clear, high-quality results.
 - Real-time Notifications: A subtle pop-up notification confirms each successful slide capture.
 - Convenient Download: A single click downloads all captured images as a compressed .zip file.
